@@ -1,0 +1,3 @@
+INCLUDE = -I/usr/include/python2.7 
+LIBS = -L/usr/lib -lpython2.7 
+
